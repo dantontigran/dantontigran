@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dantontigran
 - 👀 I’m interested in ... Games,Cars,Radios
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning ... Java
 - 💞️ I’m looking to collaborate on ... Apperlow,Orangeless OS,Basshoivo,Magic Pencil,Cars,Radios
 - 📫 How to reach me ... dantontigran@gmail.com
 
